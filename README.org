@@ -1,0 +1,14 @@
+* DWM
+  
+  My DWM with the following patches:
+
+  - [[https://dwm.suckless.org/patches/actualfullscreen/][Actual Full Screen]]
+  - [[https://dwm.suckless.org/patches/autostart/][Auto Start]]
+  - [[https://dwm.suckless.org/patches/centeredmaster/][Centred Master]]
+  - [[https://dwm.suckless.org/patches/fancybar/][Fancy Bar]]
+  - [[https://dwm.suckless.org/patches/scratchpad/][Scratchpad]]
+  - [[https://dwm.suckless.org/patches/statusallmons/][Status all monitors]]
+    
+  Other changes include, 
+  - Mod4 instead of Alt
+  - Movement of Mode Keys
