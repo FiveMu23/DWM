@@ -1,3 +1,5 @@
+* This is all currently quite a bit broken cause I'm not elitist enough to use suckless stuff
+
 * DWM
   
   My DWM with the following patches:
