@@ -1,16 +1,4 @@
-* This is all currently quite a bit broken cause I'm not elitist enough to use suckless stuff
+* What happened?
 
-* DWM
-  
-  My DWM with the following patches:
-
-  - [[https://dwm.suckless.org/patches/actualfullscreen/][Actual Full Screen]]
-  - [[https://dwm.suckless.org/patches/autostart/][Auto Start]]
-  - [[https://dwm.suckless.org/patches/centeredmaster/][Centred Master]]
-  - [[https://dwm.suckless.org/patches/fancybar/][Fancy Bar]]
-  - [[https://dwm.suckless.org/patches/scratchpad/][Scratchpad]]
-  - [[https://dwm.suckless.org/patches/statusallmons/][Status all monitors]]
-    
-  Other changes include, 
-  - Mod4 instead of Alt
-  - Movement of Mode Keys
+  This repo was cleansed because it is in a broken state and I'm to lazy to fix
+  it. 
